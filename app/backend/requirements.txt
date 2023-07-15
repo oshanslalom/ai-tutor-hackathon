@@ -1,0 +1,7 @@
+gpt_index
+langchain
+llama-index
+openai
+pypdf
+chromadb
+cors
