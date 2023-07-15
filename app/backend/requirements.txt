@@ -3,5 +3,5 @@ langchain
 llama-index
 openai
 pypdf
-chromadb
 cors
+faiss-cpu
